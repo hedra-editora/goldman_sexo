@@ -4,13 +4,13 @@
 \contentsline {section}{Considerações finais}{57}%
 \contentsline {part}{Sobre anarquismo, sexo e casamento}{59}%
 \contentsline {chapter}{Anarquia e a questão do sexo\FN@sf@gobble@opt {Texto originalmente publicado no jornal anarquista \emph {The Alarm}, da cidade de Chicago, em 1896.}}{61}%
-\contentsline {section}{As correntes ficam cada vez mais pesadas}{61}%
-\contentsline {section}{Mas eles devem usá"-las}{62}%
-\contentsline {section}{O sistema é culpado}{63}%
-\contentsline {section}{A outra imagem}{63}%
-\contentsline {section}{A cura para o mal}{64}%
-\contentsline {section}{Sonho de anarquista}{65}%
-\contentsline {section}{Divórcio anarquista}{65}%
+\contentsline {section}{as correntes ficam cada vez mais pesadas}{61}%
+\contentsline {section}{mas eles devem usá"-las}{62}%
+\contentsline {section}{o sistema é culpado}{63}%
+\contentsline {section}{a outra imagem}{63}%
+\contentsline {section}{a cura para o mal}{64}%
+\contentsline {section}{sonho de anarquista}{65}%
+\contentsline {section}{divórcio anarquista}{65}%
 \contentsline {chapter}{Casamento\FN@sf@gobble@opt {Originalmente publicado no então mais afamado jornal anarquista dos Estados Unidos, com sede em Portland, Oregon, \emph {The Firebrand}, em 1897. No ano seguinte, o jornal viria a mudar o nome para \emph {Free Society}. É o primeiro texto sobre a temática do casamento publicado por Goldman.}}{67}%
 \contentsline {chapter}{O que há na anarquia para as mulheres?}{75}%
 \contentsline {chapter}{A nova mulher\FN@sf@gobble@opt {Conferência transcrita e publicada no jornal anarquista \emph {Free Society} (1898). A temática da ``nova mulher'' foi desenvolvida por Goldman em algumas conferências daquele ano.}}{81}%
@@ -20,7 +20,7 @@
 \contentsline {chapter}{A tragédia da mulher emancipada\FN@sf@gobble@opt {Décimo capítulo da coletânea \emph {Anarquismo e outros ensaios} (1910).}}{127}%
 \contentsline {chapter}{Casamento e amor\FN@sf@gobble@opt {Décimo primeiro capítulo da coletânea \emph {Anarquismo e outros ensaios} (1910).}}{139}%
 \contentsline {chapter}{Mary Wollstonecraft: vida trágica e luta apaixonada pela liberdade}{151}%
-\contentsline {chapter}{Causas e possível cura para o ciúme\FN@sf@gobble@opt {Texto não publicado em vida, a datação de 1912 é aproximada.}}{163}%
+\contentsline {chapter}{Causas e possível cura para o ciúme}{163}%
 \contentsline {chapter}{Vítimas da moralidade\FN@sf@gobble@opt {Texto originalmente publicado na revista anarquista \emph {Mother Earth} (1913).}}{173}%
 \contentsline {chapter}{Os aspectos sociais do controle de natalidade}{183}%
 \contentsline {chapter}{Novamente o movimento do controle de natalidade}{193}%
@@ -29,11 +29,11 @@
 \contentsline {chapter}{Mulheres heroicas da Revolução Russa\FN@sf@gobble@opt {Texto não publicado em vida, a datação de 1925 é aproximada.}}{225}%
 \contentsline {chapter}{As visões de Emma sobre o amor\FN@sf@gobble@opt {Texto originalmente publicado no \emph {\textsc {nea} Service}. O título e as subseções mantidas aqui foram dados pelo jornal. No rascunho o texto curto, sem subseções é intitulado ``Minha atitude em relação ao casamento'', de 1926.}}{237}%
 \contentsline {section}{bizarro antes, aceito agora}{238}%
-\contentsline {section}{Casamento: a resposta}{239}%
-\contentsline {section}{A necessidade é a mãe da estratégia}{239}%
+\contentsline {section}{casamento: a resposta}{239}%
+\contentsline {section}{a necessidade é a mãe da estratégia}{239}%
 \contentsline {chapter}{A luta do feminismo não foi em vão}{241}%
-\contentsline {section}{Destreza mais fina}{242}%
-\contentsline {section}{Vital em todos os domínios}{243}%
-\contentsline {section}{Viva, Ávida e Ativa}{244}%
+\contentsline {section}{destreza mais fina}{242}%
+\contentsline {section}{vital em todos os domínios}{243}%
+\contentsline {section}{viva, ávida e ativa}{244}%
 \contentsline {chapter}{O elemento sexual da vida\FN@sf@gobble@opt {Rascunho inacabado, do qual muitas páginas estão faltando. A datação de 1935 é aproximada. Ao que parece foi concebido como parte de um texto de abordagem mais ampla, a tirar pelo título: ``Sexualidade, maternidade e controle de natalidade''. Para além da ``seção'' aqui traduzida, bastante fragmentada, não restaram mais do que duas ou três páginas do documento original. As pouquíssimas passagens do rascunho excluídas da presente tradução ou foram riscadas pela própria Goldman (há uma série de anotações à mão no texto, nem sempre legíveis), ou a redação não revisada inviabilizou a inteligibilidade do texto.}}{245}%
 \babel@toc {brazilian}{}
