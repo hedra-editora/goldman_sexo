@@ -1,11 +1,13 @@
 \thispagestyle {empty}
 \contentsline {chapter}{Introdução, \textit {por Mariana Lins}}{7}%
-\contentsline {section}{Goldman heroica}{9}%
-\contentsline {section}{A coletânea}{14}%
+\contentsline {section}{A herança de Goldman}{9}%
+\contentsline {section}{Sexo e casamento}{14}%
+\contentsline {section}{A mercadoria sexual}{20}%
+\contentsline {section}{O que é o amor?}{29}%
 \contentsline {section}{Maternidade}{35}%
 \contentsline {section}{Natalidade}{40}%
-\contentsline {section}{A denúncia à sufragistas}{45}%
-\contentsline {section}{Considerações finais}{57}%
+\contentsline {section}{Denúncia ao movimento sufragista}{45}%
+\contentsline {section}{A verdadeira emancipação}{56}%
 \contentsline {part}{Sobre anarquismo, sexo e casamento}{61}%
 \contentsline {chapter}{Anarquia e a questão do sexo\FN@sf@gobble@opt {Texto originalmente publicado no jornal anarquista \emph {The Alarm}, da cidade de Chicago, em 1896.}}{63}%
 \contentsline {section}{as correntes ficam cada vez mais pesadas}{63}%

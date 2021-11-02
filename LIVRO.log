@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  2 NOV 2021 00:27
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  2 NOV 2021 13:18
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1175,11 +1175,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 ) [3] (./PRETAS.tex) [4] (./LIVRO.toc) [5] [6]
 (./INTRODUCAO.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 28.
+(Font)              <10.95> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 28.
+(Font)              <8> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 28.
+(Font)              <6> on input line 29.
  [7
 
 
@@ -1309,9 +1309,9 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of LuaTeX's memory you used:
  13487 strings out of 480992
  100000,794899 words of node,token memory allocated
- 3225 words of node memory still in use:
-   5 hlist, 1 vlist, 2 rule, 157 glue, 3 kern, 1 glyph, 317 attribute, 197 glue_
-spec, 160 attribute_list, 3 shape, 3 write nodes
+ 3251 words of node memory still in use:
+   5 hlist, 1 vlist, 2 rule, 159 glue, 3 kern, 1 glyph, 321 attribute, 197 glue_
+spec, 162 attribute_list, 3 shape, 3 write nodes
    avail lists: 2:1926,3:233,4:126,5:2962,6:58,7:7758,8:2,9:390,10:56,11:835
  30439 multiletter control sequences out of 65536+600000
  144 fonts using 26316507 bytes
@@ -1327,7 +1327,7 @@ suzana/Library/Fonts/Formular-Regular.otf></usr/local/texlive/2020/texmf-dist/fo
 nts/opentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/f
 onts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/
 fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (270 pages, 1044457 bytes).
+Output written on LIVRO.pdf (270 pages, 1045806 bytes).
 
 PDF statistics: 944 PDF objects out of 1000 (max. 8388607)
  627 compressed objects within 7 object streams
