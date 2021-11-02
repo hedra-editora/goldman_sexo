@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  2 NOV 2021 15:58
+=======
+<<<<<<< HEAD
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  2 NOV 2021 13:18
+=======
+<<<<<<< HEAD
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  2 NOV 2021 12:40
+>>>>>>> eb01af5993713f4210d446dfc0adb62b43acccf7
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -18,6 +26,36 @@ Lua-only attribute luaotfload@state = 1
 Lua-only attribute luaotfload@noligature = 2
 Lua-only attribute luaotfload@syllabe = 3
 luaotfload | init : Context OpenType loader version “3.027”
+<<<<<<< HEAD
+=======
+=======
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  2 NOV 2021 00:27
+>>>>>>> 505870457da2ee5c6214107c0635480ed413ef05
+ restricted system commands enabled.
+**LIVRO.tex
+(./LIVRO.tex
+LaTeX2e <2020-02-02> patch level 5
+Lua module: luaotfload-main 2020-02-02 3.12 luaotfload entry point
+Lua module: luaotfload-init 2020-02-02 3.12 luaotfload submodule / initializatio
+n
+Lua module: lualibs 2020-02-02 2.70 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2020-02-02 2.70 ConTeXt Lua libraries -- extended c
+ollection.
+Lua module: luaotfload-log 2020-02-02 3.12 luaotfload submodule / logging
+Lua module: luaotfload-parsers 2020-02-02 3.12 luaotfload submodule / filelist
+Lua module: luaotfload-configuration 2020-02-02 3.12 luaotfload submodule / conf
+ig file reader
+luaotfload | conf : Root cache directory is /Users/suzana/Library/texlive/2020/t
+exmf-var/luatex-cache/generic-dev/names.
+luaotfload | init : Loading fontloader “fontloader-2020-01-26.lua” from kpse
+-resolved path “/usr/local/texlive/2020/texmf-dist/tex/luatex/luaotfload/fontl
+oader-2020-01-26.lua”.
+Lua-only attribute luaotfload@state = 2
+Lua-only attribute luaotfload@noligature = 3
+Lua-only attribute luaotfload@syllabe = 4
+luaotfload | init : Context OpenType loader version “3.11”
+>>>>>>> 2e4d4ec5d2ec5df2f2f514b83d5985318b3961c3
+>>>>>>> eb01af5993713f4210d446dfc0adb62b43acccf7
 Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
 Inserting `luaotfload.define_font' at position 1 in `define_font'.
@@ -1478,11 +1516,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 ) [3] (./PRETAS.tex)
 [4] (./LIVRO.toc) [5] [6] (./INTRODUCAO.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 28.
+(Font)              <10.95> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 28.
+(Font)              <8> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 28.
+(Font)              <6> on input line 29.
  [7
 
 
@@ -1674,8 +1712,39 @@ entsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/
 lcirclew.pfb>
 Output written on LIVRO.pdf (270 pages, 1006108 bytes).
 
+<<<<<<< HEAD
 PDF statistics: 909 PDF objects out of 1000 (max. 8388607)
  607 compressed objects within 7 object streams
+=======
+PDF statistics: 896 PDF objects out of 1000 (max. 8388607)
+ 599 compressed objects within 6 object streams
+=======
+ 13487 strings out of 480992
+ 100000,794899 words of node,token memory allocated
+ 3251 words of node memory still in use:
+   5 hlist, 1 vlist, 2 rule, 159 glue, 3 kern, 1 glyph, 321 attribute, 197 glue_
+spec, 162 attribute_list, 3 shape, 3 write nodes
+   avail lists: 2:1926,3:233,4:126,5:2962,6:58,7:7758,8:2,9:390,10:56,11:835
+ 30439 multiletter control sequences out of 65536+600000
+ 144 fonts using 26316507 bytes
+ 53i,12n,102p,1330b,443s stack positions out of 5000i,500n,10000p,200000b,100000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
+ers/suzana/Library/Fonts/MinionPro-ItSubh.otf></Users/suzana/Library/Fonts/Minio
+nPro-Subh.otf></Users/suzana/Library/Fonts/MinionPro-Bold.otf></Library/Fonts/Ti
+mes New Roman.ttf></Users/suzana/Library/Fonts/MinionPro-It.otf></Users/suzana/L
+ibrary/Fonts/MinionPro-Regular.otf></Users/suzana/Library/Fonts/Formular-Bold.ot
+f></Users/suzana/Library/Fonts/MinionPro-ItCapt.otf></Users/suzana/Library/Fonts
+/MinionPro-Capt.otf></Users/suzana/Library/Fonts/MinionPro-BoldCapt.otf></Users/
+suzana/Library/Fonts/Formular-Regular.otf></usr/local/texlive/2020/texmf-dist/fo
+nts/opentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/f
+onts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/
+fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (270 pages, 1045806 bytes).
+
+PDF statistics: 944 PDF objects out of 1000 (max. 8388607)
+ 627 compressed objects within 7 object streams
+>>>>>>> 2e4d4ec5d2ec5df2f2f514b83d5985318b3961c3
+>>>>>>> eb01af5993713f4210d446dfc0adb62b43acccf7
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
