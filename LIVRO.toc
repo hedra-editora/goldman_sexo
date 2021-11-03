@@ -1,64 +1,15 @@
 \thispagestyle {empty}
-\contentsline {chapter}{Introdução, \textit {por Mariana Lins}}{7}
-\contentsline {section}{Goldman heroica}{9}
-\contentsline {section}{a mulher mais perigosa da América}{11}
-\contentsline {section}{A coletânea}{14}
-\contentsline {section}{A questão do sexo}{23}
-\contentsline {section}{Ciúme e amor livre}{31}
-\contentsline {section}{Maternidade}{35}
-\contentsline {section}{O movimento de controle de natalidade}{41}
-\contentsline {section}{A denúncia às sufragistas}{46}
-\contentsline {section}{A verdadeira igualdade entre mulheres e homens}{52}
-\contentsline {section}{Considerações finais}{59}
-\contentsline {part}{Sobre anarquismo, sexo e casamento}{61}
-\contentsline {chapter}{Anarquia e a questão do sexo\FN@sf@gobble@opt {Texto originalmente publicado no jornal anarquista \emph {The Alarm}, da cidade de Chicago, em 1896.}}{63}
-\contentsline {section}{as correntes ficam cada vez mais pesadas}{63}
-\contentsline {section}{mas eles devem usá"-las}{64}
-\contentsline {section}{o sistema é culpado}{65}
-\contentsline {section}{a outra imagem}{65}
-\contentsline {section}{a cura para o mal}{66}
-\contentsline {section}{sonho de anarquista}{67}
-\contentsline {section}{divórcio anarquista}{67}
-\contentsline {chapter}{Casamento\FN@sf@gobble@opt {Originalmente publicado no então mais afamado jornal anarquista dos Estados Unidos, com sede em Portland, Oregon, \emph {The Firebrand}, em 1897. No ano seguinte, o jornal viria a mudar o nome para \emph {Free Society}. É o primeiro texto sobre a temática do casamento publicado por Goldman.}}{69}
-\contentsline {chapter}{O que há na anarquia para as mulheres?}{77}
-\contentsline {chapter}{A nova mulher\FN@sf@gobble@opt {Conferência transcrita e publicada no jornal anarquista \emph {Free Society}, em 1898. A temática da \textit {nova mulher} foi desenvolvida por Goldman em algumas conferências daquele ano.}}{83}
-\contentsline {chapter}{A hipocrisia do puritanismo\FN@sf@gobble@opt {Sétimo capítulo da coletânea \emph {Anarquismo e outros ensaios} tradução de \emph {Anarchism and Other Essays}, publicada por Goldman na revista \textit {Mother Earth} em 1910.}}{85}
-\contentsline {chapter}{Tráfico de mulheres\FN@sf@gobble@opt {Uma primeira versão deste texto foi publicada na revista anarquista \emph {Mother Earth}, então editada pela própria Goldman, sob o título ``O tráfico de escravas brancas''. A presente versão foi publicada no mesmo ano em que a primeira, na coletânea de ensaios de 1910 \emph {Anarquismo e outros ensaios}.}}{95}
-\contentsline {chapter}{O sufrágio feminino\FN@sf@gobble@opt {Nono capítulo da coletânea \emph {Anarquismo e outros ensaios}, de 1910.}}{113}
-\contentsline {chapter}{A tragédia da mulher emancipada\FN@sf@gobble@opt {Décimo capítulo da coletânea \emph {Anarquismo e outros ensaios}, de 1910.}}{129}
-\contentsline {chapter}{Casamento e amor\FN@sf@gobble@opt {Décimo primeiro capítulo da coletânea \emph {Anarquismo e outros ensaios}, de 1910.}}{141}
-\contentsline {chapter}{Mary Wollstonecraft: vida trágica e luta apaixonada pela liberdade}{153}
-\contentsline {chapter}{Causas e possível cura para o ciúme}{165}
-\contentsline {chapter}{Vítimas da moralidade\FN@sf@gobble@opt {Texto originalmente publicado na revista anarquista \emph {Mother Earth}, em 1913.}}{175}
-\contentsline {chapter}{Os aspectos sociais do controle de natalidade}{185}
-\contentsline {chapter}{Novamente o movimento do controle de natalidade}{195}
-\contentsline {chapter}{O camaleônico sufrágio feminino\FN@sf@gobble@opt {Texto originalmente publicado na revista anarquista \emph {Mother Earth}, em 1917.}}{201}
-\contentsline {chapter}{Louise Michel, uma refutação\FN@sf@gobble@opt {Carta aberta dirigida ao médico e se Magnus Hischfeld, escrita em inglês e publicada em alemão na \emph {Jahrbuch für sexualle Zwischenstufen}. O texto é uma resposta ao ensaio de Karl von Levetzow (1825--1895), no qual defende que a anarquista francesa Louise Michel seria lésbica. O artigo de von Levetzow foi publicado na mesma revista em 1905, ano da morte de Michel. Uma tradução para o inglês da carta foi publicada, em 1976, na coletânea de textos e documentos organizada por Jonathan Katz, chamada \emph {Gay American History}. Este texto é traduzido do rascunho da carta original em inglês, de 1923.}}{211}
-\contentsline {chapter}{Mulheres heroicas da Revolução Russa\FN@sf@gobble@opt {Texto não publicado em vida, a data de 1925 é aproximada.}}{227}
-\contentsline {chapter}{As visões de Emma sobre o amor\FN@sf@gobble@opt {Texto originalmente publicado no \emph {\textsc {nea} Service}. O título e as subseções mantidas aqui foram dados pelo jornal. No rascunho o texto curto, sem subseções é intitulado ``Minha atitude em relação ao casamento'', de 1926.}}{239}
-\contentsline {section}{bizarro antes, aceito agora}{240}
-\contentsline {section}{casamento: a resposta}{241}
-\contentsline {section}{a necessidade é a mãe da estratégia}{241}
-\contentsline {chapter}{A luta do feminismo não foi em vão}{243}
-\contentsline {section}{destreza mais fina}{244}
-\contentsline {section}{vital em todos os domínios}{245}
-\contentsline {section}{viva, ávida e ativa}{246}
-<<<<<<< HEAD
-\contentsline {chapter}{O elemento sexual da vida\FN@sf@gobble@opt {Rascunho inacabado, do qual faltam muitas páginas. A data de 1935 é aproximada. Ao que parece, foi concebido como parte de um texto de abordagem mais ampla, a tirar pelo título: ``Sexualidade, maternidade e controle de natalidade''. Para além da \textit {seção} aqui traduzida, bastante fragmentada, não restaram mais do que duas ou três páginas do documento original. As pouquíssimas passagens do rascunho excluídas da presente tradução ou foram riscadas pela própria Goldman (há uma série de anotações à mão no texto, nem sempre legíveis), ou a redação não revisada inviabilizou a inteligibilidade do texto.}}{247}
-=======
-\contentsline {chapter}{O elemento sexual da vida\FN@sf@gobble@opt {Rascunho inacabado, do qual muitas páginas estão faltando. A datação de 1935 é aproximada. Ao que parece foi concebido como parte de um texto de abordagem mais ampla, a tirar pelo título: ``Sexualidade, maternidade e controle de natalidade''. Para além da ``seção'' aqui traduzida, bastante fragmentada, não restaram mais do que duas ou três páginas do documento original. As pouquíssimas passagens do rascunho excluídas da presente tradução ou foram riscadas pela própria Goldman (há uma série de anotações à mão no texto, nem sempre legíveis), ou a redação não revisada inviabilizou a inteligibilidade do texto.}}{247}
-=======
 \contentsline {chapter}{Introdução, \textit {por Mariana Lins}}{7}%
-\contentsline {section}{A herança de Goldman}{9}%
-\contentsline {section}{Sexo e casamento}{14}%
-\contentsline {section}{A mercadoria sexual}{20}%
-\contentsline {section}{O que é o amor?}{29}%
-\contentsline {section}{Maternidade}{35}%
-\contentsline {section}{Natalidade}{40}%
-\contentsline {section}{Denúncia ao movimento sufragista}{45}%
-\contentsline {section}{A verdadeira emancipação}{56}%
+\contentsline {section}{a mulher mais perigosa da américa}{9}%
+\contentsline {section}{sexo e casamento}{14}%
+\contentsline {section}{sexo como mercadoria}{20}%
+\contentsline {section}{o que é o amor?}{29}%
+\contentsline {section}{A maternidade}{35}%
+\contentsline {section}{Movimento pelo controle de natalidade}{41}%
+\contentsline {section}{Embate com as sufragistas}{47}%
+\contentsline {section}{A verdadeira emancipação}{57}%
 \contentsline {part}{Sobre anarquismo, sexo e casamento}{61}%
-\contentsline {chapter}{Anarquia e a questão do sexo\FN@sf@gobble@opt {Texto originalmente publicado no jornal anarquista \emph {The Alarm}, da cidade de Chicago, em 1896.}}{63}%
+\contentsline {chapter}{Anarquia e a questão do sexo\FN@sf@gobble@opt {Texto originalmente publicado no jornal anarquista \textit {The Alarm}, da cidade de Chicago, em 1896.}}{63}%
 \contentsline {section}{as correntes ficam cada vez mais pesadas}{63}%
 \contentsline {section}{mas eles devem usá"-las}{64}%
 \contentsline {section}{o sistema é culpado}{65}%
@@ -66,23 +17,23 @@
 \contentsline {section}{a cura para o mal}{66}%
 \contentsline {section}{sonho de anarquista}{67}%
 \contentsline {section}{divórcio anarquista}{67}%
-\contentsline {chapter}{Casamento\FN@sf@gobble@opt {Originalmente publicado no então mais afamado jornal anarquista dos Estados Unidos, com sede em Portland, Oregon, \emph {The Firebrand}, em 1897. No ano seguinte, o jornal viria a mudar o nome para \emph {Free Society}. É o primeiro texto sobre a temática do casamento publicado por Goldman.}}{69}%
+\contentsline {chapter}{Casamento\FN@sf@gobble@opt {Originalmente publicado no então mais afamado jornal anarquista dos Estados Unidos, com sede em Portland, Oregon, \textit {The Firebrand}, em 1897. No ano seguinte, o jornal viria a mudar o nome para \textit {Free Society}. É o primeiro texto sobre a temática do casamento publicado por Goldman.}}{69}%
 \contentsline {chapter}{O que há na anarquia para as mulheres?}{77}%
-\contentsline {chapter}{A nova mulher\FN@sf@gobble@opt {Conferência transcrita e publicada no jornal anarquista \emph {Free Society}, em 1898. A temática da \textit {nova mulher} foi desenvolvida por Goldman em algumas conferências daquele ano.}}{83}%
-\contentsline {chapter}{A hipocrisia do puritanismo\FN@sf@gobble@opt {Sétimo capítulo da coletânea \emph {Anarquismo e outros ensaios} tradução de \emph {Anarchism and Other Essays}, publicada por Goldman na revista \textit {Mother Earth} em 1910.}}{85}%
-\contentsline {chapter}{Tráfico de mulheres\FN@sf@gobble@opt {Uma primeira versão deste texto foi publicada na revista anarquista \emph {Mother Earth}, então editada pela própria Goldman, sob o título ``O tráfico de escravas brancas''. A presente versão foi publicada no mesmo ano em que a primeira, na coletânea de ensaios de 1910 \emph {Anarquismo e outros ensaios}.}}{95}%
-\contentsline {chapter}{O sufrágio feminino\FN@sf@gobble@opt {Nono capítulo da coletânea \emph {Anarquismo e outros ensaios}, de 1910.}}{113}%
-\contentsline {chapter}{A tragédia da mulher emancipada\FN@sf@gobble@opt {Décimo capítulo da coletânea \emph {Anarquismo e outros ensaios}, de 1910.}}{129}%
-\contentsline {chapter}{Casamento e amor\FN@sf@gobble@opt {Décimo primeiro capítulo da coletânea \emph {Anarquismo e outros ensaios}, de 1910.}}{141}%
+\contentsline {chapter}{A nova mulher\FN@sf@gobble@opt {Conferência transcrita e publicada no jornal anarquista \textit {Free Society}, em 1898. A temática da \textit {nova mulher} foi desenvolvida por Goldman em algumas conferências daquele ano.}}{83}%
+\contentsline {chapter}{A hipocrisia do puritanismo\FN@sf@gobble@opt {Sétimo capítulo da coletânea \textit {Anarquismo e outros ensaios}, em inglês \textit {Anarchism and Other Essays}, publicada por Goldman na revista \textit {Mother Earth} em 1910.}}{85}%
+\contentsline {chapter}{Tráfico de mulheres\FN@sf@gobble@opt {Uma primeira versão deste texto foi publicada na revista anarquista \textit {Mother Earth}, então editada pela própria Goldman, sob o título ``O tráfico de escravas brancas.'' Já a publicação da versão que o leitor tem em mãos nesta edição aconteceu no mesmo ano em que a primeira, na coletânea de ensaios de 1910 \textit {Anarquismo e outros ensaios}.}}{95}%
+\contentsline {chapter}{O sufrágio feminino\FN@sf@gobble@opt {Nono capítulo da coletânea \textit {Anarquismo e outros ensaios}, de 1910.}}{113}%
+\contentsline {chapter}{A tragédia da mulher emancipada\FN@sf@gobble@opt {Décimo capítulo da coletânea \textit {Anarquismo e outros ensaios}, de 1910.}}{129}%
+\contentsline {chapter}{Casamento e amor\FN@sf@gobble@opt {Décimo primeiro capítulo da coletânea \textit {Anarquismo e outros ensaios}, de 1910.}}{141}%
 \contentsline {chapter}{Mary Wollstonecraft: vida trágica e luta apaixonada pela liberdade}{153}%
 \contentsline {chapter}{Causas e possível cura para o ciúme}{165}%
-\contentsline {chapter}{Vítimas da moralidade\FN@sf@gobble@opt {Texto originalmente publicado na revista anarquista \emph {Mother Earth}, em 1913.}}{175}%
+\contentsline {chapter}{Vítimas da moralidade\FN@sf@gobble@opt {Texto originalmente publicado na revista anarquista \textit {Mother Earth}, em 1913.}}{175}%
 \contentsline {chapter}{Os aspectos sociais do controle de natalidade}{185}%
 \contentsline {chapter}{Novamente o movimento do controle de natalidade}{195}%
-\contentsline {chapter}{O camaleônico sufrágio feminino\FN@sf@gobble@opt {Texto originalmente publicado na revista anarquista \emph {Mother Earth}, em 1917.}}{201}%
-\contentsline {chapter}{Louise Michel, uma refutação\FN@sf@gobble@opt {Carta aberta dirigida ao médico e se Magnus Hischfeld, escrita em inglês e publicada em alemão na \emph {Jahrbuch für sexualle Zwischenstufen}. O texto é uma resposta ao ensaio de Karl von Levetzow (1825--1895), no qual defende que a anarquista francesa Louise Michel seria lésbica. O artigo de von Levetzow foi publicado na mesma revista em 1905, ano da morte de Michel. Uma tradução para o inglês da carta foi publicada, em 1976, na coletânea de textos e documentos organizada por Jonathan Katz, chamada \emph {Gay American History}. Este texto é traduzido do rascunho da carta original em inglês, de 1923.}}{211}%
+\contentsline {chapter}{O camaleônico sufrágio feminino\FN@sf@gobble@opt {Texto originalmente publicado na revista anarquista \textit {Mother Earth}, em 1917.}}{201}%
+\contentsline {chapter}{Louise Michel, uma refutação\FN@sf@gobble@opt {Carta aberta dirigida ao médico e se Magnus Hischfeld, escrita em inglês e publicada em alemão na \textit {Jahrbuch für sexualle Zwischenstufen}. O texto é uma resposta ao ensaio de Karl von Levetzow (1825--1895), no qual defende que a anarquista francesa Louise Michel seria lésbica. O artigo de von Levetzow foi publicado na mesma revista em 1905, ano da morte de Michel. Uma tradução para o inglês da carta foi publicada, em 1976, na coletânea de textos e documentos organizada por Jonathan Katz, chamada \textit {Gay American History}. Este texto é traduzido do rascunho da carta original em inglês, de 1923.}}{211}%
 \contentsline {chapter}{Mulheres heroicas da Revolução Russa\FN@sf@gobble@opt {Texto não publicado em vida, a data de 1925 é aproximada.}}{227}%
-\contentsline {chapter}{As visões de Emma sobre o amor\FN@sf@gobble@opt {Texto originalmente publicado no \emph {\textsc {nea} Service}. O título e as subseções mantidas aqui foram dados pelo jornal. No rascunho o texto curto, sem subseções é intitulado ``Minha atitude em relação ao casamento'', de 1926.}}{239}%
+\contentsline {chapter}{As visões de Emma sobre o amor\FN@sf@gobble@opt {Texto originalmente publicado no \textit {\textsc {nea} Service}. O título e as subseções mantidas aqui foram dados pelo jornal. No rascunho o texto curto, sem subseções, é intitulado ``Minha atitude em relação ao casamento'', de 1926.}}{239}%
 \contentsline {section}{bizarro antes, aceito agora}{240}%
 \contentsline {section}{casamento: a resposta}{241}%
 \contentsline {section}{a necessidade é a mãe da estratégia}{241}%
@@ -90,7 +41,5 @@
 \contentsline {section}{destreza mais fina}{244}%
 \contentsline {section}{vital em todos os domínios}{245}%
 \contentsline {section}{viva, ávida e ativa}{246}%
-\contentsline {chapter}{O elemento sexual da vida\FN@sf@gobble@opt {Rascunho inacabado, do qual faltam muitas páginas. A data de 1935 é aproximada. Ao que parece, foi concebido como parte de um texto de abordagem mais ampla, a tirar pelo título: ``Sexualidade, maternidade e controle de natalidade''. Para além da \textit {seção} aqui traduzida, bastante fragmentada, não restaram mais do que duas ou três páginas do documento original. As pouquíssimas passagens do rascunho excluídas da presente tradução ou foram riscadas pela própria Goldman (há uma série de anotações à mão no texto, nem sempre legíveis), ou a redação não revisada inviabilizou a inteligibilidade do texto.}}{247}%
->>>>>>> 2e4d4ec5d2ec5df2f2f514b83d5985318b3961c3
->>>>>>> eb01af5993713f4210d446dfc0adb62b43acccf7
+\contentsline {chapter}{O elemento sexual da vida\FN@sf@gobble@opt {Rascunho inacabado, do qual faltam muitas páginas. A data de 1935 é aproximada. Ao que parece, foi concebido como parte de um texto de abordagem mais ampla, a tirar pelo título ``Sexualidade, maternidade e controle de natalidade.'' Para além da seção aqui traduzida, bastante fragmentada, não restaram mais do que duas ou três páginas do documento original. As poucas passagens do rascunho excluídas da presente tradução ou foram riscadas pela própria Goldman (há uma série de anotações à mão no texto, nem sempre legíveis), ou a redação não revisada inviabilizou a inteligibilidade do texto.}}{247}%
 \babel@toc {brazilian}{}
