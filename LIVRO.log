@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  2 NOV 2021 21:35
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  3 NOV 2021 10:32
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1199,11 +1199,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ] [70] [71] [72] [73] [74] [75]
 [76]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 414.
+(Font)              <9> on input line 415.
  [77
 
 ]
-Underfull \hbox (badness 1014) in paragraph at lines 438--445
+Underfull \hbox (badness 1014) in paragraph at lines 439--446
 []\TU/MinionPro(0)/m/n/10.95 ``Não'', res-pon-deu a miúda anar-quista, tão pr
 on-ta-mente
  []
@@ -1332,7 +1332,7 @@ suzana/Library/Fonts/Formular-Regular.otf></usr/local/texlive/2020/texmf-dist/fo
 nts/opentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/f
 onts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/
 fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (270 pages, 1050671 bytes).
+Output written on LIVRO.pdf (270 pages, 1050176 bytes).
 
 PDF statistics: 944 PDF objects out of 1000 (max. 8388607)
  627 compressed objects within 7 object streams
