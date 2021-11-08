@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  8 NOV 2021 19:58
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  8 NOV 2021 20:45
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.082 seconds
+luaotfload | main : initialization completed in 0.093 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1501,230 +1501,35 @@ atn;language=DFLT;+tlig;+onum;!
 [58] [59]) (./TEXTO.tex [60] [61
 
 ] [62]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 6.
- [63
+! Missing number, treated as zero.
+<to be read again> 
+*
+l.6 ...{The Alarm}, da cidade de Chicago, em 1896.}}
+                                                  
+? x
 
-] [64] [65] [66] [67] [68] [69
-
-]
-[70] [71] [72] [73] [74] [75] [76]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 417.
- [77
-
-] [78] [79] [80] [81] [82
-
-] [83] [84]
-[85
-
-] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95
-
-] [96] [97] [98] [99]
-[100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
-[112
-
-] [113
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-] [114
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-] [115] [116] [117] [118] [119] [120] [121] [122] [123]
-[124] [125] [126] [127] [128] [129
-
-] [130] [131] [132] [133] [134] [135]
-[136] [137
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-] [138] [139] [140
-
-] [141] [142] [143] [144] [145] [146] [147]
-[148] [149] [150] [151] [152
-
-] [153] [154] [155] [156] [157] [158] [159]
-[160] [161] [162] [163] [164
-
-] [165] [166] [167] [168] [169] [170] [171]
-[172] [173] [174
-
-] [175] [176] [177] [178] [179] [180] [181] [182] [183]
-[184
-
-] [185] [186] [187] [188] [189] [190] [191] [192] [193] [194] [195
-
-]
-[196] [197] [198] [199] [200
-
-]
-Inserting `luaotfload.letterspace' at position 2 in `pre_linebreak_filter'.
-Inserting `luaotfload.letterspace' at position 2 in `hpack_filter'. [201] [202]
- [203
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-] [204] [205] [206] [207]
-[208] [209
-
-] [210] [211] [212] [213] [214
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-] [215
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-] [216] [217] [218] [219]
-[220] [221] [222] [223] [224] [225
-
-] [226] [227] [228] [229] [230] [231]
-[232
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-] [233] [234
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-Missing character: There is no ​ (U+200B) in font MinionPro:mode=node;script=l
-atn;language=DFLT;+tlig;+onum;!
-] [235] [236
-
-] [237] [238] [239] [240] [241
-
-] [242] [243]
-[244] [245
-
-] [246] [247] [248] [249] [250] [251] [252] [253] [254] [255]
-[256] [257] [258] [259] [260] [261]) (./Y-publicidade.tex [262]
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-[263] [264]
-Underfull \hbox (badness 10000) in paragraph at lines 144--145
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
-
- []
-
-[265]
-Underfull \hbox (badness 10000) in paragraph at lines 194--195
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 243--244
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
-
- []
-
-[266]
-Underfull \hbox (badness 10000) in paragraph at lines 265--266
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
-
- []
-
-) [267] (./Z-colofon.tex))(load luc: /home/edlab/.texlive2017/texmf-var/luatex-c
-ache/generic/fonts/otl/lmmono9-regular.luc) [268]
-
-******************************************************
-Stock height and width: 845.04684pt by 597.50787pt
-Top and edge trims: 56.9055pt and 109.5431pt
-Page height and width: 597.50787pt by 378.42165pt
-Text height and width: 484pt by 275pt
-Spine and edge margins: 51.2299pt and 51.20001pt
-Upper and lower margins: 47.53113pt and 65.97675pt
-Headheight and headsep: 13.6pt and 14.22636pt
-Footskip: 27.46295pt
-Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 12.74579pt and 25.70844pt
-Sidecapsep and sidecapwidth: 7pt and 111pt
-Sidebarhsep and sidebarwidth: 7pt and 111pt
-Sidebarvsep and sidebartopsep: 13.6pt and 0pt
-Sidebarheight: 539.9202pt
-Sidefoothsep and sidefootwidth: 7pt and 111pt
-Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
-******************************************************
-
-\tf@toc=\write5
-
-\openout5 = LIVRO.toc
-(./LIVRO.aux (./INPUTS.aux))
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
-
-)
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 6 (\begingroup)
-### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 20555 strings out of 494480
- 100000,794899 words of node,token memory allocated
- 8021 words of node memory still in use:
-   5 hlist, 1 vlist, 2 rule, 227 glue, 718 glyph, 242 attribute, 199 glue_spec, 
-242 attribute_list, 3 shape, 3 write nodes
-   avail lists: 1:1,2:1291,3:233,4:126,5:3338,6:6212,7:1956,8:59,9:356,10:56,11:
-798
- 23666 multiletter control sequences out of 65536+600000
- 134 fonts using 25563663 bytes
- 46i,12n,83p,1330b,473s stack positions out of 5000i,500n,10000p,200000b,100000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
-lab/texmf/tex/fonts/times.ttf></home/edlab/texmf/tex/fonts/Formular-Bold.otf></h
-ome/edlab/texmf/tex/fonts/MinionPro-It.ttf></home/edlab/texmf/tex/fonts/MinionPr
-o-Regular.ttf></home/edlab/texmf/tex/fonts/Minion Pro Bold.ttf></home/edlab/texm
-f/tex/fonts/Formular-Regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmmo
-no8-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/Ornem
-entsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/
-lcirclew.pfb>
-Output written on LIVRO.pdf (268 pages, 1008163 bytes).
+ 20323 strings out of 494480
+ 100000,794899 words of node,token memory allocated 2157 words of node memory still in use:
+   5 hlist, 3 rule, 1 mark, 1 local_par, 1 dir, 79 glue, 1 penalty, 23 glyph, 76
+ attribute, 195 glue_spec, 76 attribute_list, 1 temp, 4 if_stack, 3 shape, 3 wri
+te nodes
+   avail lists: 1:1,2:504,3:112,4:93,5:2458,6:5293,7:1377,8:53,9:226,10:56,11:58
+4
+ 23543 multiletter control sequences out of 65536+600000
+ 104 fonts using 21211071 bytes
+ 46i,12n,83p,1330b,411s stack positions out of 5000i,500n,10000p,200000b,100000s
+</home/edlab/texmf/tex/fonts/times.ttf></home/edlab/texmf/tex/fonts/Formular-Bol
+d.otf></home/edlab/texmf/tex/fonts/MinionPro-It.ttf></home/edlab/texmf/tex/fonts
+/MinionPro-Regular.ttf></home/edlab/texmf/tex/fonts/Minion Pro Bold.ttf></home/e
+dlab/texmf/tex/fonts/Formular-Regular.otf></usr/share/texmf/fonts/opentype/publi
+c/lm/lmmono8-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (62 pages, 269709 bytes).
 
-PDF statistics: 903 PDF objects out of 1000 (max. 8388607)
- 603 compressed objects within 7 object streams
+PDF statistics: 252 PDF objects out of 1000 (max. 8388607)
+ 164 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

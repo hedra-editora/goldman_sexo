@@ -1,5 +1,5 @@
 \thispagestyle {empty}
-\vspace *{-.5cm}
+\vspace *{-.1cm}
 \contentsline {chapter}{Introdução}{7}
 \contentsline {section}{Goldman heroica}{9}
 \contentsline {section}{a mulher mais perigosa da América}{11}
@@ -28,7 +28,7 @@
 \contentsline {chapter}{O sufrágio feminino\FN@sf@gobble@opt {Nono capítulo da coletânea \textit {Anarquismo e outros ensaios}, de 1910.}}{113}
 \contentsline {chapter}{A tragédia da mulher emancipada\FN@sf@gobble@opt {Décimo capítulo da coletânea \textit {Anarquismo e outros ensaios}, de 1910.}}{129}
 \contentsline {chapter}{Casamento e amor\FN@sf@gobble@opt {Décimo primeiro capítulo da coletânea \textit {Anarquismo e outros ensaios}, de 1910.}}{141}
-\contentsline {chapter}{Mary Wollstonecraft: vida trágica e luta apaixonada pela liberdade}{153}
+\contentsline {chapter}{Mary Wollstonecraft}{153}
 \contentsline {chapter}{Causas e possível cura para o ciúme}{165}
 \contentsline {chapter}{Vítimas da moralidade\FN@sf@gobble@opt {Texto originalmente publicado na revista anarquista \textit {Mother Earth}, em 1913.}}{175}
 \contentsline {chapter}{Os aspectos sociais do controle de natalidade}{185}

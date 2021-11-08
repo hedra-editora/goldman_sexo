@@ -54,3 +54,13 @@
 }{%
   \end{list}%
 }
+
+
+% Comando para fazer subtítulo
+\newcommand{\subtitulo}[1]{\NoCaseChange{\textnormal{\break\Large\itshape#1}}}
+\newcommand{\chapterspecial}[2]{%
+  \chapter[#1]%
+      {#1\ifx#2\relax\else\subtitulo{#2}\fi}%
+\markright{#1}}
+
+
