@@ -1,16 +1,14 @@
 \thispagestyle {empty}
 \vspace *{-.1cm}
 \contentsline {chapter}{Introdução}{7}
-\contentsline {section}{Goldman heroica}{9}
-\contentsline {section}{a mulher mais perigosa da América}{11}
-\contentsline {section}{A mulher segundo Emma Goldman }{14}
-\contentsline {section}{A questão do sexo}{23}
-\contentsline {section}{Ciúme e amor livre}{31}
-\contentsline {section}{Maternidade}{35}
-\contentsline {section}{O movimento de controle de natalidade}{41}
-\contentsline {section}{A denúncia às sufragistas}{46}
-\contentsline {section}{A verdadeira igualdade entre mulheres e homens}{52}
-\contentsline {section}{Considerações finais}{59}
+\contentsline {section}{a mulher mais perigosa da américa}{9}
+\contentsline {section}{sexo e casamento}{14}
+\contentsline {section}{sexo como mercadoria}{20}
+\contentsline {section}{o que é o amor?}{29}
+\contentsline {section}{A maternidade}{35}
+\contentsline {section}{Movimento pelo controle de natalidade}{41}
+\contentsline {section}{Embate com as sufragistas}{47}
+\contentsline {section}{A verdadeira emancipação}{57}
 \contentsline {part}{Sobre anarquismo, sexo e casamento}{61}
 \contentsline {chapter}{Anarquia e a questão do sexo\FN@sf@gobble@opt {Texto originalmente publicado no jornal anarquista \textit {The Alarm}, da cidade de Chicago, em 1896.}}{63}
 \contentsline {section}{as correntes ficam cada vez mais pesadas}{63}
