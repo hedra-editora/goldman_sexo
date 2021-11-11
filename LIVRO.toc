@@ -1,6 +1,6 @@
 \thispagestyle {empty}
 \vspace *{-.1cm}
-\contentsline {chapter}{Introdução}{7}%
+\contentsline {chapter}{Introdução, \textit {por Mariana Lins}}{7}%
 \contentsline {section}{a mulher mais perigosa da américa}{9}%
 \contentsline {section}{sexo e casamento}{14}%
 \contentsline {section}{sexo como mercadoria}{20}%
